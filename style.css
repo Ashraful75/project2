@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: tahoma;
+}
+section  {
+    height: 500%;
+    vertical-align: middle;
+    margin-bottom: 50px;
+}
+.top-section {
+    background-image: url(images/header-bg.png);
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.ashraful {
+    margin-top: -10%;
+}
+.top-content {
+   margin-top: 10%;
+}
+ img {
+    width: 100%;
+}
+.half-width {
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+    
+}
+h1 {
+    color: #FF458F;
+}
+.btn {
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(90deg, #FF5196, #FF1872);
+    font-size: 14px;
+    border-radius: 4px;
+}
+.biyo-section {
+    background-image: url(images/biography-bg.png);
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 100px;
+}
+.work1 {
+    width: 30.33%;
+    margin-left: 3%;
+    overflow: hidden;
+    float: left;
+    margin-top: 30px;
+}
+.my-work {
+    overflow: hidden;
+}
+p {
+    font-size: 17px;
+    color: grey;
+}
+.client-say {
+    width: 50%;
+    margin: auto;
+}
+.mail-box {
+    width: 80%;
+    margin: auto;
+    padding: 15px 0;
+    border-radius: 5px;
+    background-image: linear-gradient(90deg, #FF5196, #FF1872 );
+    color: white;
+    margin-top: 30px;
+}
+.client-area {
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+  
+    width: 100%;
+    padding: 100px 0;
+}
